@@ -1,4 +1,6 @@
-# Rules of Go
+# Rules of Go/Weiqi/Baduk, formalised
+
+Note: GitHub's maths display in Markdown is complete shit.
 
 Let $(\text{Point}, \leftrightarrow)$ be the undirected graph defined by
 
